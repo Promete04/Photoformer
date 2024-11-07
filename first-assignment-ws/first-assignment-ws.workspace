@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="first-assignment-ws" Database="" Version="10000">
+  <Project Name="first-assignment" Path="first-assignment/first-assignment.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="first-assignment" ConfigName="Debug"/>
+      <Project Name="Ass2_ImageFile" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="first-assignment" ConfigName="Debug"/>
+      <Project Name="Ass2_ImageFile" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
