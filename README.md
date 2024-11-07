@@ -3,7 +3,7 @@
 
 <img src="https://github.com/DataStructuresAlcala/first-assignment-ds-2024-2025-cepepe/blob/main/docs/images/logo.png" width=200>
 
-Photoformer is project belonging to the DataStructures course made by [Alejandro López Martínez](https://github.com/alejandrolm18) y [Guillermo Ramos Santos](https://github.com/Promete04).  This repository contains all the source code, images located at `first-assignment-ws/build-Debug/lib`, and required documentation in order to reflect the development process.
+Photoformer is project belonging to the DataStructures course made by [Alejandro López](https://github.com/alejandrolm18) y [Guillermo Ramos](https://github.com/Promete04).  This repository contains all the source code, images located at `first-assignment-ws/build-Debug/lib`, and required documentation in order to reflect the development process.
 
 ## Documentation
 
