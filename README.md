@@ -7,7 +7,7 @@ Photoformer is project belonging to the DataStructures course made by [Alejandro
 
 ## Documentation
 
-The `docs/` directory contains the essential project documentation, providing a comprehensive guide to the development and design of Photoformer. The documentation includes a development diary and the following elements to ensure a thorough understanding of the project's structure and functionality:
+The `docs/` directory contains the essential project documentation, providing a comprehensive guide to the development and design of Photoformer. The documentation includes the following elements to ensure a thorough understanding of the project's structure and functionality:
 * Data flow analysis.
 * Adaptation of Abstract Data Types (ADT) and operation definitions.
 * Box diagrams of operations in the design phase.
